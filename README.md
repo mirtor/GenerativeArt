@@ -1,6 +1,6 @@
 # Generative Art
 
-![GenerativeArt Screenshot](GenerativeArt.png)
+![GenerativeArt Screenshot](GenerativeArt.jpg)
 
 This project showcases a generative art piece created using the Processing programming language. The artwork generates lines of colors from the center of the screen outward, with random directions and speeds. Each circle generated is stored in an array, and upon reaching the screen edge, they rebound with the same color. The central circle grows in size, clearing the content in its path. This process creates an ever-changing and visually captivating piece of generative art.
 
